@@ -1,0 +1,3 @@
+Assignment: Expense Tracking System (Day 4)
+
+Create a menu driven Expense Tracker Application in Python that stores expense records in a CSV file. Each expense should include the Date, Category, Amount, and an optional Note. The program should allow users to add new expenses, view all recorded expenses with the total amount spent, and display a category wise spending summary. Use functions, exception handling, and file handling to organize your code, ensuring that invalid input is handled gracefully and all expense data is saved and retrieved correctly from the CSV file.
