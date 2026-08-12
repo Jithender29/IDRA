@@ -1,0 +1,3 @@
+Assignment: Student Management System (Day 3)
+
+Create a menu driven Student Management System in Python that stores student records using a list of dictionaries. Each student record should include ID, Name, Age, Course, and Marks. The program should allow users to add new students, view all student records, search for a student by ID or name, update existing student details, and delete student records. Use appropriate data structures, loops, conditional statements, and functions to organize your program, ensuring that it is easy to use and well structured.
