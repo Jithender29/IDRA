@@ -1,3 +1,5 @@
 JITHENDER REDDY
+
 Assignment: Python Mini-Project (Day 5)
+
 Create a menu driven Python Mini Project using Object-Oriented Programming (OOP) by choosing any one of the following applications: Library Management System, Student Grade Management System, ATM Simulation, Movie Ticket Booking System, Hospital Management System, Restaurant Ordering System, Shopping Cart System, Quiz Application, Hotel Room Booking System, or Employee Payroll System. Design your project using appropriate classes, objects, constructors, and methods, while applying all the concepts learned throughout Week 1, including variables, conditional statements, loops, functions, data structures (lists, tuples, sets, dictionaries), exception handling, and file handling (TXT/CSV) wherever applicable. Your application should be menu driven, well structured, and capable of handling invalid user input gracefully. You are encouraged to add as many creative features and enhancements as you like, making your project unique while demonstrating your understanding of Python programming and OOP.
