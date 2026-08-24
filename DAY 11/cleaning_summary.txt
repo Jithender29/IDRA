@@ -1,0 +1,12 @@
+Cleaning Summary
+
+157 rows, 12 columns, 32 missing cells, and 7 duplicate records.
+Leading/trailing whitespace and blank text entries were normalized.
+Inconsistent Department, Gender, City, and Work Mode values were standardized.
+Numeric columns were converted to numeric types and the joining date was converted to datetime.
+Numerical missing values were filled using median imputation.
+Categorical missing values were filled using mode imputation.
+Duplicate records were removed using drop_duplicates().
+dropna() and forward filling were intentionally not used because they were not suitable for these independent employee records.
+After cleaning: 150 rows, 12 columns, 0 missing cells, and 0 duplicate records.
+The cleaned dataset was exported as Day11_Cleaned_Company_Employee_Dataset.csv.
